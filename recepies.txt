@@ -7,4 +7,9 @@ abinitio
 Informatica 7
 Informatica8
 
+dbeaver
+Netezza
+controlM
+
+
 Thank you 
