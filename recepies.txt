@@ -3,3 +3,6 @@ Welcome to trail demo
 
 git 
 abinitio
+
+Informatica 7
+Informatica8
